@@ -1,0 +1,6 @@
+{
+  "name": "EcoLoop SVIT Campus E-Waste Command Center",
+  "description": "Track, collect, and responsibly route institutional and student electronic waste across campus laboratories and dormitories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
